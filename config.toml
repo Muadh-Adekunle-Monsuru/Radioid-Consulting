@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://github.com/Muadh-Adekunle-Monsuru/Radioid-Consulting" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Radioid Consulting"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
